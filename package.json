@@ -2,7 +2,7 @@
   "name": "new-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mbilal-wq.github.io/",
+  "homepage": "https://mbilal-wq.github.io/reactlivewebsite/",
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
